@@ -1,24 +1,6 @@
-# mxg-msm
+# background-system
+此项目是一个会员管理系统，是我在业余时间根据网上购买的vue课程做的demo项目，主要用到的技术有Vuex、ElementUI、proxy代理服务器、接口封装、表单验证、vue-cli环境变量、mock.js等。
 
-## Project setup
-```
-npm install
-```
+开发日期：2018
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+作者：刘勇
